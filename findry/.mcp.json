@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "findry": {
+      "type": "http",
+      "url": "https://mcp.findry.ai/mcp",
+      "oauth": { "scopes": "read act" }
+    }
+  }
+}

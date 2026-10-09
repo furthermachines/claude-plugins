@@ -1,0 +1,13 @@
+{
+  "name": "furthermachines",
+  "description": "Further Machines plugins for Claude Code.",
+  "owner": { "name": "Further Machines", "url": "https://furthermachines.ai" },
+  "plugins": [
+    {
+      "name": "findry",
+      "source": "./findry",
+      "description": "The Findry Estate Map and the governed change inside Claude Code.",
+      "version": "0.2.1"
+    }
+  ]
+}

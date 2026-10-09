@@ -1,0 +1,8 @@
+{
+  "name": "findry",
+  "version": "0.2.1",
+  "description": "The Findry Estate Map and the governed change inside Claude Code: what a file carries, who consumes it, decisions to preserve, changes in flight, and /findry commands.",
+  "author": { "name": "Further Machines", "url": "https://furthermachines.ai" },
+  "homepage": "https://furthermachines.ai",
+  "types": "./types/index.d.ts"
+}
